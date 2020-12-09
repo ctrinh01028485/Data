@@ -6,3 +6,5 @@ lsy = [o for o in range(0, 100, 10)]
 
 plt.plot(lst, lsy)
 plt.show()
+
+#demo github
